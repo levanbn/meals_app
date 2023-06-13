@@ -26,7 +26,6 @@ class MealItemTrait extends StatelessWidget {
             color: Colors.white,
           ),
         ),
-        
       ],
     );
   }
